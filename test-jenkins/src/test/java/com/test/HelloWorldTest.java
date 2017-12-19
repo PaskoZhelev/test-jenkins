@@ -21,7 +21,7 @@ public class HelloWorldTest {
 
 	@Test
 	public void testGetHelloWorld() {
-		assertEquals("Hello World", cut.getHelloWorld());
+		assertEquals("Hello World!", cut.getHelloWorld());
 	}
 
 }
